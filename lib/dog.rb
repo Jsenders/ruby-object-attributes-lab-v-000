@@ -16,16 +16,5 @@ class Dog
     @this_dogs_breed
   end
 end
-end
 
-lassie = Dog.new
-lassie.name = "Lassie"
 
-puts lassie.name
-
-yorkshire = Dog.new
-yorkshire.breed = "Yorkshire Terrier"
-
-puts yorkshire.breed
-
-class Dog
